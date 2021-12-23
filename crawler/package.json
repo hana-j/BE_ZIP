@@ -1,0 +1,22 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "puppeteer": "^13.0.1",
+    "request": "^2.88.2",
+    "sequelize": "^6.12.2",
+    "sequelize-cli": "^6.3.0",
+    "url": "^0.11.0",
+    "xml-js": "^1.6.11"
+  }
+}
